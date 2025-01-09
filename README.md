@@ -1,6 +1,6 @@
 Hi there, I'm Yash Sharma 👋
 
-🚀 Data Scientist | Aspiring Data Analytics Expert
+🚀 Data Scientist | Data Analyst
 
 🌟 Passionate about extracting meaningful insights from data and building intelligent systems.
 
