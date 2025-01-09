@@ -12,10 +12,15 @@ About Me-
   I aspire to collaborate with experienced professionals in analytics or data science to enhance my skills and contribute to impactful projects.
 
 🔧 Skills & Technologies-
+
   Programming Languages: Python, SQL
+  
   Data Visualization: Power BI, Tableau
+  
   Machine Learning: scikit-learn, TensorFlow
+  
   Deep Learning: Convolutional Neural Networks (CNN)
+  
   Others: Data Analysis, OpenAI API, LangChain
 
 📚 Education & Achievements-
